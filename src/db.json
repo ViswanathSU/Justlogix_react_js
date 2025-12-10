@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "eff8",
+      "name": "Sunit",
+      "email": "viswanath.suresh14@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "e767",
+      "name": "Viswanath Su",
+      "email": "viswaviswanath1407@gmail.com",
+      "password": "Viswa@2004"
+    },
+    {
+      "id": "b451",
+      "name": "Viswanath",
+      "email": "Viswa@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "9587",
+      "name": "Viswanath",
+      "email": "Viswa@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1866",
+      "name": "bala",
+      "email": "viswaviswanath1407@gmail.com",
+      "password": "09876543"
+    }
+  ]
+}

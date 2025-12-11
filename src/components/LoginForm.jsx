@@ -11,9 +11,6 @@ function LoginForm({theme}) {
   const [remember, setRemember] = useState(false);
   const [savedEmail, setSavedEmail] = useState("");
 
-  console.log(remember,"rem",savedEmail,"saveemail");
-  
-
   // for remember me
   const email = Cookies.get("userEmail");
   useEffect(() => {

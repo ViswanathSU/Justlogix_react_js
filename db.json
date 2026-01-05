@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": "3f9b",
+      "name": "Viswanath SU",
+      "email": "viswanath14@gmail.com",
+      "age": "22"
+    },
+    {
+      "id": "7bcf",
+      "name": "Gandhi",
+      "email": "gandhi@india.com",
+      "age": "102"
+    },
+    {
+      "id": "dba9",
+      "name": "Jancy Rani",
+      "email": "jancy@gmail.com",
+      "age": "34"
+    },
+    {
+      "id": "cb17",
+      "name": "Bharathi",
+      "email": "bharathi@gmail.com",
+      "age": "54"
+    },
+    {
+      "id": "b920",
+      "name": "Victor",
+      "email": "victor21@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "10ed",
+      "name": "maxwell",
+      "email": "maxmuller@gmail.com",
+      "age": "21"
+    },
+    {
+      "id": "b43e",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": "904b",
+      "name": "Andy",
+      "email": "andy@gmail.com",
+      "age": "23"
+    }
+  ]
+}
